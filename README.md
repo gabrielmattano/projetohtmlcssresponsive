@@ -17,7 +17,7 @@ Exercício do Stage 03 do curso Explorer da Rocketseat</p>
 <br>
 
 <p align="center">
-  <img alt="Projeto SpaceCream" src=".github/print_projeto.jpg" width="70%">
+  <img alt="Projeto SpaceCream" src="https://raw.githubusercontent.com/gabrielmattano/projetohtmlcssresponsive/main/print_projeto.jpg" width="70%">
 </p>
 
 ## 🚀 Tecnologias
